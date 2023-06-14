@@ -23,4 +23,4 @@ I am broadly interested in the mathematical foundations of machine learning. Rec
 - Teaching Assistant:  DSC 140A - Probabilistic Modeling and ML, UCSD. Winter 2022
 
 ## Academic service
-Reviewer for NeurIPS, ICML,UAI.
+Reviewer for NeurIPS, ICML, UAI.
