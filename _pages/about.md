@@ -13,6 +13,8 @@ I am broadly interested in the optimization and mathematical foundations of deep
 
 **I will join [IFDS](https://ifds.info/) at the University of Washington as a postdoc this summer.** Feel free to reach out to me if you share similar research interests!
 
+*Email*: libinzhu at ucsd dot edu
+
 ## Selected Papers 
 - L Zhu, C Liu, A Radhakrishnan, M Belkin, [Catapults in SGD: spikes in the training loss and their impact on generalization through feature learning](https://arxiv.org/pdf/2306.04815.pdf). ICML 2024.
 - L Zhu, C Liu, A Radhakrishnan, M Belkin, [Quadratic models for understanding neural network dynamics](https://arxiv.org/pdf/2205.11787.pdf). ICLR 2024.
