@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Papers
 
 ## Feature learning
 - L Zhu, C Liu, A Radhakrishnan, M Belkin, [Catapults in SGD: spikes in the training loss and their impact on generalization through feature learning](https://arxiv.org/pdf/2306.04815.pdf). ICML 2024.
