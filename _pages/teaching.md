@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-#Teaching
 
 - Teaching Assistant: DSC 206 - Algorithms for data science, UCSD. Winter 2024
 - Teaching Assistant: DSC 240 - Machine Learning, UCSD. Fall 2023
