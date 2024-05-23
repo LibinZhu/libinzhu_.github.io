@@ -39,3 +39,21 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.centered-figure {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.centered-image {
+  max-width: 50%; /* Adjust the value as needed to make the image smaller */
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.centered-caption {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 3em; /* Adjust the value as needed for caption size */
+}
