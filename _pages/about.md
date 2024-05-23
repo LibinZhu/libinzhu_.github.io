@@ -22,7 +22,7 @@ I am broadly interested in the mathematical foundations of machine learning. Rec
 - L Zhu, C Liu, M Belkin, [Transition to Linearity of General Neural Networks with Directed Acyclic Graph Architecture](https://arxiv.org/pdf/2205.11786.pdf). NeurIPS 2022. 
 - C Liu, L Zhu, M Belkin, [Transition to Linearity of Wide Neural Networks is an Emerging Property of Assembling Weak Models](https://arxiv.org/pdf/2203.05104.pdf). ICLR 2021 (Spotlight). 
 - C Liu, L Zhu, M Belkin, [On the linearity of large non-linear models: when and why the tangent kernel is constant](https://arxiv.org/pdf/2010.01092.pdf). NeurIPS 2020 (Spotlight). 
-- C Liu, L Zhu, M Belkin, [Loss landscapes and optimization in over-parameterized non-linear systems and neural networks](https://arxiv.org/pdf/2003.00307.pdf). Applied and Computational Harmonic Analysis (ACHA).
+- C Liu, L Zhu, M Belkin, [Loss landscapes and optimization in over-parameterized non-linear systems and neural networks](https://arxiv.org/pdf/2003.00307.pdf). Applied and Computational Harmonic Analysis (ACHA) 2022.
 
 ## Teaching
 - Teaching Assistant: DSC 206 - Algorithms for data science, UCSD. Winter 2024
