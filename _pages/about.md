@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in Computer Science and Engineering at The University of California, San Diego (UCSD). I am very fortunate to be advised by  [Mikhail Belkin](http://misha.belkin-wang.org/). Prior to UCSD, I received my BS in Mathematics from Zhejiang University. 
+I am currently a Ph.D. candidate in Computer Science and Engineering at The University of California, San Diego (UCSD). I am very fortunate to be advised by  [Mikhail Belkin](http://misha.belkin-wang.org/). Prior to UCSD, I received my BS in Mathematics from [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). 
 
 I am broadly interested in the optimization and mathematical foundations of deep learning. I have worked on understanding the dynamics of wide neural networks, particularly in the NTK [Jacot et al. 2018] regime. Recently, I have been interested in the behaviors of neural networks when the learning rate is large, where certain phenomena such as catapult phase [Lewkowycz et al. 2020] and edge of stability [Cohen et al. 2021] occur. These phenomena do not occur in the NTK regime and seem to be related to the feature learning of neural networks. 
 
 **I will join [IFDS](https://ifds.info/) at the University of Washington as a postdoc this summer.** Feel free to reach out to me if you share similar research interests!
 
-*Email*: libinzhu at ucsd dot edu
+**Email**: libinzhu *at* ucsd *dot* edu
 
 ## Selected Papers 
 - L Zhu, C Liu, A Radhakrishnan, M Belkin, [Catapults in SGD: spikes in the training loss and their impact on generalization through feature learning](https://arxiv.org/pdf/2306.04815.pdf). ICML 2024.
