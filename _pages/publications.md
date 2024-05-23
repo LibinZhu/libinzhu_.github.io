@@ -8,7 +8,7 @@ author_profile: true
 
 ## Feature learning
 - L Zhu, C Liu, A Radhakrishnan, M Belkin, [Catapults in SGD: spikes in the training loss and their impact on generalization through feature learning](https://arxiv.org/pdf/2306.04815.pdf). ICML 2024.
-- L Zhu, C Liu, A Radhakrishnan, M Belkin, [Quadratic models for understanding neural network dynamics](https://arxiv.org/pdf/2205.11787.pdf). ICLR 2024.
+- L Zhu, C Liu, A Radhakrishnan, M Belkin, [Quadratic models for understanding catapult dynamics of neural networks](https://arxiv.org/pdf/2205.11787.pdf). ICLR 2024.
 - L Zhu, P Pandit, M Belkin, [A note on Linear Bottleneck networks and their Transition to Multilinearity](https://arxiv.org/pdf/2206.15058.pdf). Pre-printed.
 
 ## Kernel regime
