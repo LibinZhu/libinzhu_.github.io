@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Libin Zhu"
   avatar           : "profile.png"
-  bio              : "PhD candidate at UCSD"
-  location         : "La Jolla, CA"
+  bio              : "Postdoc"
+  location         : "Seattle, WA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hyTGiUcAAAAJ&hl=en&oi=ao"
-  email            : "l5zhu at ucsd dot edu"
+  email            : "libinzhu@uw.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
