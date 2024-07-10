@@ -13,7 +13,7 @@ I am currently an IFDS postdoc scholar at the University of Washington, working 
 I am broadly interested in the optimization and mathematical foundations of deep learning. I have worked on understanding the dynamics of wide neural networks, particularly in the NTK [Jacot et al. 2018] regime. Recently, I have been interested in the behaviors of neural networks when the learning rate is large, where certain phenomena such as catapult phase [Lewkowycz et al. 2020] and edge of stability [Cohen et al. 2021] occur. These phenomena do not occur in the NTK regime and seem to be related to the feature learning of neural networks. 
 
 
-**Email**: libinzhu *at* ucsd *dot* edu
+**Email**: libinzhu *at* uw *dot* edu
 
 ## Selected Papers 
 - L Zhu, C Liu, A Radhakrishnan, M Belkin, [Catapults in SGD: spikes in the training loss and their impact on generalization through feature learning](https://arxiv.org/pdf/2306.04815.pdf). ICML 2024.
