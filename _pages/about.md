@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an IFDS postdoc scholar at the University of Washington, working with [Dmitriy Drusvyatskiy](https://sites.google.com/uw.edu/ddrusv/home) and [Maryam Fazel](https://people.ece.uw.edu/fazel_maryam/). I received my PhD in computer science from UCSD, where 
+I am currently an IFDS postdoc scholar at the University of Washington, working with [Dmitriy Drusvyatskiy](https://sites.google.com/uw.edu/ddrusv/home) and [Maryam Fazel](https://people.ece.uw.edu/fazel_maryam/). I received my PhD in Computer Science from UCSD, where 
  I was fortunate to be advised by  [Mikhail Belkin](http://misha.belkin-wang.org/). Prior to UCSD, I received my BS in Mathematics from [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). 
 
 I am broadly interested in the optimization and mathematical foundations of deep learning. I have worked on understanding the dynamics of wide neural networks, particularly in the NTK [Jacot et al. 2018] regime. Recently, I have been interested in the behaviors of neural networks when the learning rate is large, where certain phenomena such as catapult phase [Lewkowycz et al. 2020] and edge of stability [Cohen et al. 2021] occur. These phenomena do not occur in the NTK regime and seem to be related to the feature learning of neural networks. 
